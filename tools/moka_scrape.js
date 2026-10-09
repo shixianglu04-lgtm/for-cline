@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 /*
  * MokaHR (mokahr.com) 公开招聘站点采集器
- * 用法: node tools/moka_scrape.js <站点页面URL> <输出文件> [--locale zh-CN]
- * 站点页面URL 形如:
- *   https://apply.careers.dji.com/social-recruitment/dji/168240?locale=zh-CN#/
- *   https://app.mokahr.com/campus-recruitment/xxx/12345
+ * 用法: node tools/moka_scrape.js <站点页面URL> <输出文件>
+ *   node tools/moka_scrape.js 'https://apply.careers.dji.com/social-recruitment/dji/168240?locale=zh-CN' out.json
  * 原理: 页面 TurboApply.data.aesIv 作为 IV; POST /api/outer/ats-apply/website/jobs/v2
- *       返回 {data:<base64>, necromancer:<key>} 用 AES-128-CBC 解密。
+ *       返回 {data:<base64>, necromancer:<key>} -> AES-128-CBC 解密
+ * 环境变量 MOKA_IV 可强制指定 IV (若页面 302/无 aesIv)。
  */
 const fs = require('fs');
 const crypto = require('crypto');
@@ -15,10 +14,15 @@ const { URL } = require('url');
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
-function httpGet(url) {
+function httpGet(url, depth) {
+  depth = depth || 0;
   return new Promise((resolve, reject) => {
     const u = new URL(url);
     https.get({ hostname: u.hostname, path: u.pathname + u.search, headers: { 'User-Agent': UA, 'Accept': 'text/html,*/*' }, timeout: 40000 }, res => {
+      if ([301, 302, 303, 307, 308].indexOf(res.statusCode) >= 0 && res.headers.location && depth < 5) {
+        res.resume();
+        return resolve(httpGet(new URL(res.headers.location, url).toString(), depth + 1));
+      }
       let d = ''; res.setEncoding('utf8');
       res.on('data', c => d += c);
       res.on('end', () => resolve({ status: res.statusCode, body: d, headers: res.headers }));
@@ -51,15 +55,18 @@ function httpPost(url, body, referer) {
 function decrypt(dataB64, keyStr, ivStr) {
   const key = Buffer.from(keyStr, 'utf8');
   const iv = ivStr ? Buffer.from(ivStr, 'utf8') : Buffer.alloc(16, 0);
-  const d = crypto.createDecipheriv(key.length === 32 ? 'aes-256-cbc' : 'aes-128-cbc', key, iv);
+  const alg = key.length === 32 ? 'aes-256-cbc' : (key.length === 24 ? 'aes-192-cbc' : 'aes-128-cbc');
+  const d = crypto.createDecipheriv(alg, key, iv);
   return Buffer.concat([d.update(Buffer.from(dataB64, 'base64')), d.final()]).toString('utf8');
 }
 
+let AES_IV = '';
 function parseResp(txt) {
   let j;
   try { j = JSON.parse(txt); } catch (e) { return null; }
   if (j && j.necromancer && j.data) {
-    const plain = decrypt(j.data, j.necromancer, global.__AES_IV__);
+    let plain;
+    try { plain = decrypt(j.data, j.necromancer, AES_IV); } catch (e) { return { __decrypt_error: e.message }; }
     try { return JSON.parse(plain); } catch (e) { return { __raw: plain }; }
   }
   return j;
@@ -75,33 +82,31 @@ async function main() {
   const u = new URL(siteUrl);
   const apiBase = u.origin;
 
-  // 1) 取 aesIv
   const page = await httpGet(siteUrl);
-  let iv = '';
+  let iv = process.env.MOKA_IV || '';
   let mm = page.body.match(/&quot;aesIv&quot;:&quot;([^&]+)&quot;/) || page.body.match(/"aesIv":"([^"]+)"/);
   if (mm) iv = mm[1];
-  global.__AES_IV__ = iv;
-  console.error(`[moka] org=${orgId} site=${siteId} iv=${iv} pageHttp=${page.status}`);
+  AES_IV = iv;
+  console.error('[moka] org=' + orgId + ' site=' + siteId + ' iv=' + iv + ' pageHttp=' + page.status);
 
-  // 2) 拉列表
   const all = [];
-  let pageNo = 1;
   const size = 50;
+  let pageNo = 1;
   for (;;) {
     const r = await httpPost(apiBase + '/api/outer/ats-apply/website/jobs/v2',
-      { orgId, siteId, page: pageNo, size, needStat: true, locale: 'zh-CN' }, siteUrl);
+      { orgId: orgId, siteId: siteId, page: pageNo, size: size, needStat: true, locale: 'zh-CN' }, siteUrl);
     const j = parseResp(r.body);
-    if (!j || !j.data || !j.data.jobs) { console.error('[moka] page', pageNo, 'no jobs. http', r.status, r.body.slice(0, 200)); break; }
+    if (!j || !j.data || !j.data.jobs) { console.error('[moka] page ' + pageNo + ' no jobs http=' + r.status + ' ' + String(r.body).slice(0, 160)); break; }
     const jobs = j.data.jobs;
-    all.push(...jobs);
+    all.push.apply(all, jobs);
     const total = (j.data.jobStats && j.data.jobStats.total) || jobs.length;
-    console.error(`[moka] page ${pageNo} got ${jobs.length} total ${total}`);
+    console.error('[moka] page ' + pageNo + ' got ' + jobs.length + ' total ' + total);
     if (all.length >= total || jobs.length === 0) break;
     pageNo++;
     if (pageNo > 60) break;
   }
-  const out = { orgId, siteId, siteUrl, aesIv: iv, collected_at: new Date().toISOString().replace(/\.\d+Z$/, 'Z'), total: all.length, jobs: all };
+  const out = { orgId: orgId, siteId: siteId, siteUrl: siteUrl, aesIv: iv, collected_at: new Date().toISOString().replace(/\.\d+Z$/, 'Z'), total: all.length, jobs: all };
   fs.writeFileSync(outFile, JSON.stringify(out, null, 1));
-  console.error(`[moka] saved ${all.length} jobs -> ${outFile}`);
+  console.error('[moka] saved ' + all.length + ' jobs -> ' + outFile);
 }
 main().catch(e => { console.error('ERR', e.message); process.exit(1); });

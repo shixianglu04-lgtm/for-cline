@@ -1,0 +1,4614 @@
+[
+ {
+  "uuid": "inn_5dleevhlxjxh",
+  "cname": "未来机器人",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 100,
+  "maxsalary": 150,
+  "days_per_week": "&#xeb2b",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "留学生实习",
+   "周末双休",
+   "节日福利"
+  ],
+  "c_tags": [
+   "企业文化好",
+   "高福利",
+   "有吃喝有梦想",
+   "同事关系好",
+   "无人驾驶",
+   "工业机器人"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_pntfpalyppel",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_swb6ak1r3bqi",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_svgvi2iv9oy7",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_uvh2m2aitz5l",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_6jo0nqorm1j0",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "交付工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "未来机器人",
+   "众擎机器人",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "乐聚机器人",
+   "李群自动化",
+   "AIRS 机器人",
+   "松灵机器人",
+   "人形机器人",
+   "智能硬件 产品经理",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_rxiqutimbdar",
+  "cname": "Flow++",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "寒假实习",
+   "留学生实习",
+   "免费咖啡"
+  ],
+  "c_tags": [
+   "发展无上限",
+   "学习平台广",
+   "追求极致",
+   "直接参与项目",
+   "技术驱动",
+   "丰富的下午茶",
+   "大数据与安全"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_5m32fuaxglpe",
+  "cname": "云南省医药 ",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 80,
+  "maxsalary": 120,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "快消/百货/批发/零售",
+  "i_tags": [
+   "远程实习",
+   "可转正实习",
+   "暑期实习",
+   "寒假实习",
+   "接受大一大二",
+   "留学生实习"
+  ],
+  "c_tags": [
+   "舒适环境",
+   "提供实习证明",
+   "美味三餐",
+   "实习机会好"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_jkcnkttiho6q",
+  "cname": "未名融智",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习",
+   "暑期实习",
+   "寒假实习",
+   "留学生实习",
+   "零基础实习"
+  ],
+  "c_tags": [
+   "实习留用机制"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_iafcng0az9rr",
+  "cname": "智融信达",
+  "city": "全国",
+  "degree": "硕士",
+  "minsalary": 500,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "可转正实习",
+   "项目奖金",
+   "带薪年假",
+   "绩效奖金",
+   "五险一金"
+  ],
+  "c_tags": [
+   "团队有活力",
+   "技术",
+   "金融投资"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_guxeozrvwnlb",
+  "cname": "百奥智汇",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "远程实习",
+   "接受大一大二",
+   "暑期实习",
+   "寒假实习",
+   "弹性工作",
+   "可转正实习",
+   "留学生实习",
+   "零基础实习",
+   "接受大一大二"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_ww24tz3abbyc",
+  "cname": "智融信达",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "节日福利",
+   "五险一金",
+   "可转正实习"
+  ],
+  "c_tags": [
+   "团队有活力",
+   "技术",
+   "金融投资"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_gwt27zygxxof",
+  "cname": "数点智创",
+  "city": "全国",
+  "degree": "不限",
+  "minsalary": 100,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "五险一金",
+   "零基础实习"
+  ],
+  "c_tags": [
+   "学习机会多",
+   "移动互联网"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_qzxbfvxbw6cp",
+  "cname": "速英科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "汽车/机械/制造",
+  "i_tags": [
+   "大牛带队",
+   "导师一带一",
+   "可转正实习"
+  ],
+  "c_tags": [
+   "实力团队",
+   "五险& 双休",
+   "学习成长空间",
+   "有转正机会",
+   "零食饮料",
+   "发展空间大"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "智能硬件 产品经理",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_fwsvuecctoqe",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴",
+   "具身智能"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_vqal2ar70wjs",
+  "cname": "序影科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "实习津贴",
+   "地铁周边",
+   "一对一导师",
+   "周末双休"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_cwnhvu3piyew",
+  "cname": "杰恩斯科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "零基础实习",
+   "一对一导师",
+   "地铁周边"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_fl2a0lrcodt4",
+  "cname": "柯西黎曼",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 120,
+  "maxsalary": 200,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "ROV",
+   "周末双休",
+   "不打卡",
+   "可转正实习",
+   "不加班"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_zne5arecj7ng",
+  "cname": "润诚达",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "房产/家居/物业/建筑",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "新能源充电桩",
+   "智慧建筑"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_bp68b6dox8ff",
+  "cname": "君略科技",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 250,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "暑期实习"
+  ],
+  "c_tags": [
+   "学习型组织",
+   "实习留用机制",
+   "十三薪",
+   "假期福利",
+   "年度旅游",
+   "发工资准时"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "智能硬件 产品经理"
+  ]
+ },
+ {
+  "uuid": "inn_o9ti3bbyfgkj",
+  "cname": "迈瑞医疗",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "周末双休",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "有食堂",
+   "有挑战性",
+   "发展空间巨大",
+   "锻炼人",
+   "项目",
+   "成长机会大",
+   "完善培训体系",
+   "医疗健康",
+   "精英多多"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_f9ndd4glytou",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_adkjuwqjse0z",
+  "cname": "先进半导体设备",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休",
+   "专业度高",
+   "大平台"
+  ],
+  "c_tags": [
+   "半导体行业",
+   "氛围轻松",
+   "开放式文化",
+   "行业巨头",
+   "周末双休"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_nm2bdge8ca5l",
+  "cname": "润诚达",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "房产/家居/物业/建筑",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "新能源充电桩",
+   "智慧建筑"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_mnudubqddisw",
+  "cname": "润诚达",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "房产/家居/物业/建筑",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "新能源充电桩",
+   "智慧建筑"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_qmf6j76y27bw",
+  "cname": "润诚达",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "房产/家居/物业/建筑",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "新能源充电桩",
+   "智慧建筑"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_170crjsgkkfd",
+  "cname": "心寰科技",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "可转正实习",
+   "可转正实习",
+   "寒假实习",
+   "留学生实习",
+   "弹性工作",
+   "地铁沿线"
+  ],
+  "c_tags": [
+   "各种好玩",
+   "高速发展",
+   "加薪升职不限",
+   "团队协作高效",
+   "股权期权"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_qqkqtdysjkit",
+  "cname": "HRS",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "远程实习",
+   "商业险"
+  ],
+  "c_tags": [
+   "实习就业",
+   "办公环境一流"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "售后 工程师 实习",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_bvnlqewuvnmn",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 150,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_fjlrnawshi5p",
+  "cname": "飞未云科",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "周末双休",
+   "零基础实习"
+  ],
+  "c_tags": [
+   "季度旅游",
+   "大牛带队",
+   "扁平化管理",
+   "舒适办公环境",
+   "每日下午茶"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_qoo30k0nsy94",
+  "cname": "现实回环科技有限公司",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休",
+   "实习津贴",
+   "可转正实习"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习",
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_m9zmejcyymap",
+  "cname": "Bamboocloud竹云",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "地铁周边"
+  ],
+  "c_tags": [
+   "领导亲和力强",
+   "知名VC",
+   "同大牛交流",
+   "科技平台",
+   "IT软件",
+   "扁平化管理"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_ejkjfcaq1jxt",
+  "cname": "深圳品阔信息技术有限公司",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "餐补"
+  ],
+  "c_tags": [
+   "成长速度快",
+   "实习转正",
+   "国家高新技术",
+   "活力& 创新",
+   "单人间宿舍"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_1opstjvb0vop",
+  "cname": "华苏科技",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 80,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "生日福利",
+   "年度旅游",
+   "提供住宿",
+   "实习证明",
+   "朝九晚五"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_k6ljk6h5lc0t",
+  "cname": "迈瑞医疗",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "地铁周边",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "有食堂",
+   "有挑战性",
+   "发展空间巨大",
+   "锻炼人",
+   "项目",
+   "成长机会大",
+   "完善培训体系",
+   "医疗健康",
+   "精英多多"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_ycmz2fuczpip",
+  "cname": "平安科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "金融科技",
+   "人工智能",
+   "医疗科技",
+   "智慧城市"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_kco0hldkm5q0",
+  "cname": "润诚达",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 800,
+  "maxsalary": 1000,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "房产/家居/物业/建筑",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "新能源充电桩",
+   "智慧建筑"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_5d14ddcsetao",
+  "cname": "京东",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "JDYOUNG",
+   "导师制",
+   "接受大一大二",
+   "有竞争力的薪酬",
+   "班车",
+   "福利券",
+   "节日福利",
+   "超高转正率",
+   "餐补/工作餐"
+  ],
+  "c_tags": [
+   "锻炼自我",
+   "专业、活力、创造",
+   "nice氛围",
+   "创新",
+   "福利",
+   "1对1导师制"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_pon0wxxqgtme",
+  "cname": "蓝网科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 200,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "可转正实习",
+   "零基础实习",
+   "实习证明",
+   "2023届毕业"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "服务机器人",
+   "售后 工程师 实习",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_ykslf4hnpfmx",
+  "cname": "君略科技",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 150,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "暑期实习",
+   "寒假实习",
+   "可转正实习",
+   "接受大一大二",
+   "地铁周边",
+   "年度旅游",
+   "免费咖啡",
+   "定期团建",
+   "餐补"
+  ],
+  "c_tags": [
+   "学习型组织",
+   "实习留用机制",
+   "十三薪",
+   "假期福利",
+   "年度旅游",
+   "发工资准时"
+  ],
+  "deadline": "",
+  "keyword": "机器人 应用工程师",
+  "search_city": "深圳",
+  "keywords": [
+   "机器人 应用工程师",
+   "售后 工程师 实习"
+  ]
+ },
+ {
+  "uuid": "inn_2w9407uupijx",
+  "cname": "万宝盛华",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 150,
+  "maxsalary": 150,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "实习津贴",
+   "150元/天"
+  ],
+  "c_tags": [
+   "亚太区实习生",
+   "年轻活力"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_gcnariei6a0e",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "技术支持"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "BrainCo",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_k1pckmm0yjrh",
+  "cname": "深圳科创学院",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "公共事业/NGO/政府",
+  "i_tags": [
+   "地铁周边",
+   "实习津贴",
+   "周末双休"
+  ],
+  "c_tags": [
+   "优秀实习环境",
+   "满满实习干货",
+   "汇聚行业人才",
+   "科技创新理念"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "解决方案 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "大疆",
+   "追觅",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "越疆",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_1wce9y1qqmdw",
+  "cname": "银联金卡",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 150,
+  "maxsalary": 180,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "免费健身房"
+  ],
+  "c_tags": [
+   "六险一金",
+   "导师制",
+   "技术导向",
+   "绩效奖金",
+   "海外国际",
+   "充满活力",
+   "公平高成长",
+   "技术大牛云集",
+   "企业背景雄厚"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_ka1xwhguvoui",
+  "cname": "Shopee",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 150,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "项目支持",
+   "ai",
+   "codex"
+  ],
+  "c_tags": [
+   "优越办公环境",
+   "巨大成长空间",
+   "公司前景好"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_kmwzkocibpsh",
+  "cname": "鹏博士电信传媒集团股份有限公司（北京）",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 250,
+  "maxsalary": 400,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "远程实习",
+   "可转正实习"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "产品经理 实习 硬件",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_toukmxq5my1q",
+  "cname": "国投瑞银基金",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 80,
+  "maxsalary": 100,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "一对一导师",
+   "周末双休"
+  ],
+  "c_tags": [
+   "工作环境好",
+   "以培养为重",
+   "氛围活泼",
+   "双休&五险",
+   "年休"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_qfbn9zz07m7v",
+  "cname": "西门子",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "医疗/健康/制药/生物",
+  "i_tags": [
+   "实习证明",
+   "餐补",
+   "交通补贴",
+   "500强"
+  ],
+  "c_tags": [
+   "产品有前景",
+   "人才",
+   "年轻的团队",
+   "健康管理",
+   "薪资进阶长"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_kkzvxwi2xapc",
+  "cname": "京东",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "JDYOUNG",
+   "导师制",
+   "接受大一大二",
+   "有竞争力的薪酬",
+   "班车",
+   "福利券",
+   "节日福利",
+   "超高转正率",
+   "餐补/工作餐"
+  ],
+  "c_tags": [
+   "锻炼自我",
+   "专业、活力、创造",
+   "nice氛围",
+   "创新",
+   "福利",
+   "1对1导师制"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "产品经理 实习 硬件",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_2glajrjcvn6m",
+  "cname": "腾娱互动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_5y4rpocy6qoy",
+  "cname": "腾娱互动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_f7k7ldpd1jzc",
+  "cname": "腾娱互动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_i0rkbofxiaad",
+  "cname": "创金合信",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "机构业务"
+  ],
+  "c_tags": [
+   "团队靠谱",
+   "工作自由度",
+   "餐费补贴"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_ayn5s7nvrjtb",
+  "cname": "长城基金",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 80,
+  "maxsalary": 120,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "实习补贴",
+   "员工饭堂",
+   "一对一带教"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品",
+   "机器人 解决方案",
+   "机器人 客户成功"
+  ]
+ },
+ {
+  "uuid": "inn_lhqxfo4yjazg",
+  "cname": "鹏扬基金",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "餐补",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "多项目助力成长",
+   "五险&a 不加班& 年终奖丰厚& 节假日福利& 员工旅游"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_kylikjrizyfr",
+  "cname": "中金财富",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 100,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "大平台",
+   "餐补",
+   "实习证明"
+  ],
+  "c_tags": [
+   "行业经验丰富",
+   "券商",
+   "提供学习成长机会"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_zwaczlnzv6tr",
+  "cname": "中金财富",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 80,
+  "maxsalary": 100,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "交通便利"
+  ],
+  "c_tags": [
+   "行业经验丰富",
+   "券商",
+   "提供学习成长机会"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_9p0eipdd8l4y",
+  "cname": "Inference AI",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "全球科技前沿"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_fmxnissoqz9b",
+  "cname": "德勤咨询",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "周末双休",
+   "实习津贴",
+   "一对一导师"
+  ],
+  "c_tags": [
+   "咨询",
+   "四大",
+   "德勤",
+   "深圳"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习",
+   "具身智能 产品"
+  ]
+ },
+ {
+  "uuid": "inn_kgomcwcst097",
+  "cname": "米飞泰克",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe1ea&#xe9f2",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "快乐的氛围",
+   "社保公积金",
+   "公司前景好",
+   "专项奖金",
+   "双休；五险"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习"
+  ]
+ },
+ {
+  "uuid": "inn_t6zh7jmku78u",
+  "cname": "力合科创",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "留学生实习",
+   "实地实习"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习"
+  ]
+ },
+ {
+  "uuid": "inn_llvrhxcmeivc",
+  "cname": "埃森哲",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 150,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "技术",
+   "咨询"
+  ],
+  "c_tags": [
+   "世界五百强",
+   "卓越绩效",
+   "专业培训",
+   "精英多",
+   "完善晋升空间",
+   "商业医疗保险",
+   "最棒团队"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习"
+  ]
+ },
+ {
+  "uuid": "inn_v66c4ho9hrse",
+  "cname": "VIGO体育娱乐",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "广告/传媒/公关/展览",
+  "i_tags": [
+   "周末双休",
+   "远程实习",
+   "留学生实习",
+   "一对一导师",
+   "接受大一大二"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习"
+  ]
+ },
+ {
+  "uuid": "inn_3mqu7bsupbyr",
+  "cname": "凯丰投资",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "留学生实习",
+   "实习证明",
+   "暑期实习",
+   "寒假实习",
+   "周末双休",
+   "不加班",
+   "一对一导师",
+   "实习津贴",
+   "餐补"
+  ],
+  "c_tags": [
+   "有活力",
+   "中高端招聘",
+   "成长快速",
+   "全面发展",
+   "食宿或食宿补贴",
+   "福利丰厚"
+  ],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "客户成功 实习"
+  ]
+ },
+ {
+  "uuid": "inn_ga7es8xvas6y",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "一对一导师",
+   "周末双休",
+   "餐补"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "售前 技术支持",
+  "search_city": "深圳",
+  "keywords": [
+   "售前 技术支持",
+   "视觉 算法 实习",
+   "服务机器人",
+   "机器人 产品经理",
+   "机器人 技术支持",
+   "解决方案 实习",
+   "交付工程师 实习",
+   "机器人 实习生",
+   "技术运维 实习",
+   "工业机器人",
+   "电子 实习",
+   "客户成功 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_9ogbw5uwz0bn",
+  "cname": "金融研究院",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "金融"
+  ],
+  "c_tags": [
+   "事业单位"
+  ],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_nklb9bmkfmxw",
+  "cname": "脆鲜生",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "餐饮/酒店/旅游/娱乐",
+  "i_tags": [
+   "不加班",
+   "节日福利",
+   "实习津贴",
+   "接受大一大二",
+   "零基础实习",
+   "可转正实习"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_qkby30rivfth",
+  "cname": "RingConn",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 200,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "增值服务运维",
+   "项目管理",
+   "行业调研",
+   "数据分析运营",
+   "跨部门协作",
+   "以旧换新",
+   "保险对接业务",
+   "优秀服务案例"
+  ],
+  "c_tags": [
+   "氛围活跃",
+   "节假日礼物",
+   "有大牛",
+   "工作开心",
+   "饮料零食多多",
+   "有留用机会"
+  ],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_nvxas3onb9ux",
+  "cname": "深圳市正浩创新科技股份有限公司",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [
+   "高科技创新性企业",
+   "新能源移动储能",
+   "这里有感情",
+   "高效办公",
+   "管理简单",
+   "专人带领"
+  ],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_o5vaw9wtyvok",
+  "cname": "德勤咨询",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "周末双休",
+   "一对一导师"
+  ],
+  "c_tags": [
+   "咨询",
+   "四大",
+   "德勤",
+   "深圳"
+  ],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_9ys1vkvlqo49",
+  "cname": "德勤咨询",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [
+   "咨询",
+   "四大",
+   "德勤",
+   "深圳"
+  ],
+  "deadline": "",
+  "keyword": "服务机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "服务机器人",
+   "工业机器人",
+   "电子 实习",
+   "未来机器人",
+   "众擎机器人",
+   "乐聚机器人",
+   "李群自动化",
+   "松灵机器人",
+   "人形机器人"
+  ]
+ },
+ {
+  "uuid": "inn_o6wqlkp3wsnd",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休",
+   "地铁周边"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_6wopcnx5olbu",
+  "cname": "皓溢",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 250,
+  "days_per_week": "&#xeced",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "接受大一大二",
+   "留学生实习"
+  ],
+  "c_tags": [
+   "职业加油站",
+   "丰富实战经验",
+   "公司发展前景",
+   "简单高效",
+   "地铁",
+   "老板人超好"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_xqoyh3ra9enw",
+  "cname": "百度",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 400,
+  "maxsalary": 500,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "留学生实习"
+  ],
+  "c_tags": [
+   "实力大背景",
+   "年轻群体",
+   "有转正机会",
+   "精彩活动",
+   "逗比同事",
+   "行业龙头",
+   "提供学习成长机会",
+   "老板nice",
+   "高大上办公环境"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_kawct6lckuky",
+  "cname": "万兴科技Wondershare",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "产品voc"
+  ],
+  "c_tags": [
+   "AIGC",
+   "上市公司",
+   "AI漫剧",
+   "数字创意",
+   "年轻活力",
+   "成长快"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_2hq7iah8vkyf",
+  "cname": "小爱灵动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "大牛带",
+   "成长空间大"
+  ],
+  "c_tags": [
+   "A轮融资",
+   "工作气氛好",
+   "年轻简单",
+   "年度绩效奖金",
+   "季度绩效奖金",
+   "有趣、有爱、"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_zuene9iqfsmh",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "地铁周边"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_zezuxuwkaahs",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "地铁周边"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_xgsmstq7pdwf",
+  "cname": "货拉拉",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "导师一对一"
+  ],
+  "c_tags": [
+   "职业规划明确",
+   "团队给力",
+   "双休；五险",
+   "交通方便",
+   "环境融洽",
+   "健身"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_4z7xzipnuutb",
+  "cname": "腾娱互动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_yiur8yxtazhr",
+  "cname": "快手",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [
+   "有留用机会",
+   "拓展人脉",
+   "高端职位",
+   "金牌导师",
+   "新人成长",
+   "有发展前景"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_r2nscfrobt9l",
+  "cname": "快手",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "餐补",
+   "免费班车",
+   "节日福利",
+   "不打卡",
+   "地铁周边"
+  ],
+  "c_tags": [
+   "有留用机会",
+   "拓展人脉",
+   "高端职位",
+   "金牌导师",
+   "新人成长",
+   "有发展前景"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_xehie2t331hd",
+  "cname": "字节跳动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 500,
+  "maxsalary": 500,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "健身瑜伽",
+   "团队氛围好",
+   "大牛带队",
+   "免费三餐",
+   "租房补贴"
+  ],
+  "c_tags": [
+   "弹性工作制",
+   "就近租房补贴",
+   "免费健身设施",
+   "节日礼品",
+   "餐饮"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_fv6aajp5wwy5",
+  "cname": "百度",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "周末双休",
+   "节日福利",
+   "不加班",
+   "餐补",
+   "免费班车"
+  ],
+  "c_tags": [
+   "实力大背景",
+   "年轻群体",
+   "有转正机会",
+   "精彩活动",
+   "逗比同事",
+   "行业龙头",
+   "提供学习成长机会",
+   "老板nice",
+   "高大上办公环境"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_ssdiv0vco4xc",
+  "cname": "平安科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习"
+  ],
+  "c_tags": [
+   "金融科技",
+   "人工智能",
+   "医疗科技",
+   "智慧城市"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_bxpnempjsqmq",
+  "cname": "挚信资本",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "大厂实习",
+   "福利多多"
+  ],
+  "c_tags": [
+   "五险 双;休",
+   "会务"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_08bb1o0o5lhd",
+  "cname": "脑回录科技Nanoloop",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "一对一导师",
+   "清华团队",
+   "AI硬件创业",
+   "脑机接口"
+  ],
+  "c_tags": [
+   "初创团队",
+   "清华上交",
+   "国际化团队",
+   "AI硬件",
+   "脑机接口"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_iexowhaz6mpv",
+  "cname": "艾丽斯卡",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "快消/百货/批发/零售",
+  "i_tags": [
+   "节日福利",
+   "一对一导师"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_mlnpvsydanyn",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_xjrbhiqldedr",
+  "cname": "百度",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "周末双休",
+   "餐补"
+  ],
+  "c_tags": [
+   "实力大背景",
+   "年轻群体",
+   "有转正机会",
+   "精彩活动",
+   "逗比同事",
+   "行业龙头",
+   "提供学习成长机会",
+   "老板nice",
+   "高大上办公环境"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_y7u3grqjvzil",
+  "cname": "腾娱互动",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_efao1mp0ivm5",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休",
+   "地铁周边"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_ze6ur33ucgef",
+  "cname": "淳臻投资",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "零基础实习",
+   "实习薪酬"
+  ],
+  "c_tags": [
+   "毕业生接收",
+   "咖啡随便喝",
+   "零食随便吃",
+   "定期团建",
+   "定期体检",
+   "生日下午茶"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_69kmcx3lon8d",
+  "cname": "滴滴",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "晚餐补贴"
+  ],
+  "c_tags": [
+   "互联网",
+   "名企实习",
+   "各种福利",
+   "广阔平台"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_6puztelagnja",
+  "cname": "Striv",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "留学生实习",
+   "不打卡",
+   "地铁周边",
+   "可转正实习"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_u7vioywg9iey",
+  "cname": "美图公司",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 180,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "一对一带教"
+  ],
+  "c_tags": [
+   "收获成长",
+   "福利多大新奇",
+   "地铁站旁边",
+   "快速成长空间",
+   "月薪丰厚",
+   "团队融洽有爱"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_mjqamm6sgdtj",
+  "cname": "货拉拉",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "wlb",
+   "一对一导师"
+  ],
+  "c_tags": [
+   "职业规划明确",
+   "团队给力",
+   "双休；五险",
+   "交通方便",
+   "环境融洽",
+   "健身"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_av8vvhzsyak7",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "地铁周边"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_twa8abdu4ohl",
+  "cname": "平安科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "不加班",
+   "周末双休",
+   "一对一导师"
+  ],
+  "c_tags": [
+   "金融科技",
+   "人工智能",
+   "医疗科技",
+   "智慧城市"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_37rz97njmlag",
+  "cname": "平安证券",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 100,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "金融/经济/投资/财会",
+  "i_tags": [
+   "一对一导师",
+   "实习津贴",
+   "周末双休",
+   "证券总部",
+   "校招实习"
+  ],
+  "c_tags": [
+   "证券",
+   "专业 投入  灵活  高效",
+   "氛围棒棒哒",
+   "高端人才合作",
+   "发展"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_orpejkxsjjau",
+  "cname": "Shopee",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "国际化"
+  ],
+  "c_tags": [
+   "优越办公环境",
+   "巨大成长空间",
+   "公司前景好"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_4unuwiqvy1fr",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "地铁周边",
+   "周末双休"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_zhlln0iyz3rp",
+  "cname": "OPPO",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "周末双休"
+  ],
+  "c_tags": [
+   "同事可爱",
+   "与成功者为伴",
+   "福利完善",
+   "早午餐",
+   "学习平台广"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_easrqea7qsm4",
+  "cname": "韶音科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "提供住宿",
+   "资深导师带教",
+   "深度参与项目"
+  ],
+  "c_tags": [
+   "高新技术企业"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_dtl2cwsb1xnv",
+  "cname": "众安国际",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "国际化团队"
+  ],
+  "c_tags": [
+   "氛围棒棒哒",
+   "英语好",
+   "晋升平台大",
+   "导师制度",
+   "成长"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件",
+   "AGV 产品"
+  ]
+ },
+ {
+  "uuid": "inn_yalpgaekzetw",
+  "cname": "迅雷网络",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "产品经理",
+   "C端产品",
+   "用户体验"
+  ],
+  "c_tags": [
+   "免费健身房",
+   "餐补",
+   "大牛带教",
+   "团队氛围好",
+   "双休",
+   "六险一金"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_ksowituvlhtr",
+  "cname": "小红书",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "免费三餐",
+   "环境好",
+   "宠物日",
+   "下午茶"
+  ],
+  "c_tags": [
+   "互联网招聘"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_8qiovcrc3p8e",
+  "cname": "快手",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 250,
+  "days_per_week": "&#xe051",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "餐补",
+   "周末双休",
+   "节日福利",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "有留用机会",
+   "拓展人脉",
+   "高端职位",
+   "金牌导师",
+   "新人成长",
+   "有发展前景"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_snpiugzp2gtr",
+  "cname": "妙客莱音",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 400,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "留学生实习",
+   "一对一导师",
+   "餐补"
+  ],
+  "c_tags": [
+   "职场社交平台",
+   "双休法定假日",
+   "人工智能",
+   "软件工程师",
+   "双休&五险",
+   "发展快"
+  ],
+  "deadline": "",
+  "keyword": "产品经理 实习 硬件",
+  "search_city": "深圳",
+  "keywords": [
+   "产品经理 实习 硬件"
+  ]
+ },
+ {
+  "uuid": "inn_lqjg9mbrgh7a",
+  "cname": "韶音科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "提供住宿",
+   "资深导师带教",
+   "深度参与项目"
+  ],
+  "c_tags": [
+   "高新技术企业"
+  ],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_oadfzowilzu8",
+  "cname": "韶音科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "大牛带教",
+   "嵌入式",
+   "实习生公寓"
+  ],
+  "c_tags": [
+   "高新技术企业"
+  ],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_91yr9hq3ormk",
+  "cname": "魔力信息",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "可转正实习",
+   "弹性工作"
+  ],
+  "c_tags": [
+   "人工智能",
+   "指纹芯片",
+   "物联网",
+   "国高"
+  ],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_wsfjm33qohtx",
+  "cname": "香港中文大学（深圳）",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 250,
+  "maxsalary": 500,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "可转正实习",
+   "餐补"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_dprb8np09gqd",
+  "cname": "灵动星核",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 500,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "不限",
+  "i_tags": [
+   "一对一导师",
+   "周末双休",
+   "可转正实习"
+  ],
+  "c_tags": [
+   "具身智能",
+   "大模型",
+   "应用落地",
+   "机器人",
+   "航天",
+   "灵巧手"
+  ],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_zdfip8hmzzo3",
+  "cname": "韶音科技",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "提供住宿",
+   "资深导师带教",
+   "深入参与项目"
+  ],
+  "c_tags": [
+   "高新技术企业"
+  ],
+  "deadline": "",
+  "keyword": "自动化 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "自动化 实习",
+   "嵌入式 实习",
+   "机器人 售前",
+   "机器人 项目",
+   "机器人 应用",
+   "机器人 运营",
+   "机器人 现场",
+   "无人机 产品",
+   "机器人 售后",
+   "机器人 交付",
+   "机器人 运维",
+   "机器人 调试",
+   "机械臂 产品"
+  ]
+ },
+ {
+  "uuid": "inn_f4mio4hzyd9r",
+  "cname": "蓝标数字",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 100,
+  "maxsalary": 120,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "广告/传媒/公关/展览",
+  "i_tags": [
+   "实习津贴",
+   "地铁周边"
+  ],
+  "c_tags": [
+   "年轻团队",
+   "这里有梦想",
+   "大学生实习",
+   "精英多",
+   "御姐、萌妹子",
+   "不限量饮料",
+   "空间无限大"
+  ],
+  "deadline": "",
+  "keyword": "FAE 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "FAE 实习"
+  ]
+ },
+ {
+  "uuid": "inn_djbidjsnyfo4",
+  "cname": "SNK",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "下午茶"
+  ],
+  "c_tags": [
+   "责任制底薪",
+   "团队活动多",
+   "转正五险一金",
+   "钱途无量"
+  ],
+  "deadline": "",
+  "keyword": "FAE 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "FAE 实习"
+  ]
+ },
+ {
+  "uuid": "inn_knuyzvsxxctl",
+  "cname": "奥美",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 100,
+  "maxsalary": 100,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "广告/传媒/公关/展览",
+  "i_tags": [
+   "实习津贴",
+   "国际4A",
+   "牛奶咖啡下午茶"
+  ],
+  "c_tags": [
+   "4A",
+   "天马行空",
+   "牛奶咖啡下午",
+   "创意脑暴"
+  ],
+  "deadline": "",
+  "keyword": "FAE 实习",
+  "search_city": "深圳",
+  "keywords": [
+   "FAE 实习"
+  ]
+ },
+ {
+  "uuid": "inn_pfvoudr6u1xn",
+  "cname": "YUHESEN",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习",
+   "地铁周边",
+   "一对一导师",
+   "实习津贴",
+   "节日福利",
+   "暑期实习"
+  ],
+  "c_tags": [
+   "五险&氛围",
+   "靠谱创业团队",
+   "系统培训",
+   "创新产品",
+   "补充住房津贴",
+   "导师培养"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_0xyh05aidx3t",
+  "cname": "造梦科技",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "地铁周边",
+   "新兴岗位",
+   "晋升快"
+  ],
+  "c_tags": [
+   "高压高成长",
+   "能力定薪",
+   "公司已盈利",
+   "加入就是朋友"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_hszxpawzyero",
+  "cname": "法雷奥",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "汽车/机械/制造",
+  "i_tags": [
+   "周末双休",
+   "一对一导师",
+   "免费班车",
+   "地铁周边",
+   "不加班"
+  ],
+  "c_tags": [
+   "成长学习",
+   "双休年假",
+   "有食堂",
+   "汽车行业",
+   "辅助驾驶",
+   "新能源汽车"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_dus7eglngvry",
+  "cname": "云迹科技",
+  "city": "全国",
+  "degree": "大专",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "远程实习",
+   "人工智能",
+   "午餐",
+   "机器人",
+   "实习培训",
+   "实习证明",
+   "实习工资"
+  ],
+  "c_tags": [
+   "时间灵活自由",
+   "敢创新",
+   "脚踏实地",
+   "蓝海行业",
+   "机器人",
+   "人工智能",
+   "锻炼自我",
+   "弹性",
+   "精英团队",
+   "学习成长快"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_qwp4k76mlrim",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "双休"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达",
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_mywamcxup67j",
+  "cname": "深圳科创学院",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "公共事业/NGO/政府",
+  "i_tags": [
+   "周末双休",
+   "地铁周边",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "优秀实习环境",
+   "满满实习干货",
+   "汇聚行业人才",
+   "科技创新理念"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_n12teze3cem6",
+  "cname": "SYNAPUFF",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "不限",
+  "i_tags": [
+   "可转正实习",
+   "暑期实习",
+   "日常实习",
+   "转正机会"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_lebmmck8i9da",
+  "cname": "Xeno Dynamics",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 180,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "1",
+  "industry": "汽车/机械/制造",
+  "i_tags": [
+   "大牛指导",
+   "出国机会",
+   "留学奖学金",
+   "可转正实习",
+   "暑期实习",
+   "寒假实习",
+   "留学生实习",
+   "绩效奖金",
+   "定期团建",
+   "项目奖金"
+  ],
+  "c_tags": [
+   "广阔发展平台",
+   "办公氛围好",
+   "专业强",
+   "员工年度旅游",
+   "年轻团队",
+   "股票期权",
+   "实习留任",
+   "办公环境舒适",
+   "名校奖学金计划",
+   "零食"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_7wh7dy8w07ap",
+  "cname": "YUHESEN",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习",
+   "一对一导师",
+   "餐补",
+   "周末双休"
+  ],
+  "c_tags": [
+   "五险&氛围",
+   "靠谱创业团队",
+   "系统培训",
+   "创新产品",
+   "补充住房津贴",
+   "导师培养"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_r4q4ekteb8ic",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "餐补",
+   "前沿技术趋势",
+   "导师亲带"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_kknuovfiq8gn",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xe051",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_lzkjhnslo55u",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "具身智能",
+   "前沿赛道"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_ywsmwpxyulik",
+  "cname": "灵动星核",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 500,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "不限",
+  "i_tags": [
+   "节日福利",
+   "不加班",
+   "不打卡"
+  ],
+  "c_tags": [
+   "具身智能",
+   "大模型",
+   "应用落地",
+   "机器人",
+   "航天",
+   "灵巧手"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机",
+   "法雷奥",
+   "埃斯顿",
+   "优必选",
+   "拓斯达"
+  ]
+ },
+ {
+  "uuid": "inn_2eea8t1kfdbw",
+  "cname": "易桉智能",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 100,
+  "maxsalary": 180,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "一对一导师"
+  ],
+  "c_tags": [
+   "人工智能",
+   "芯片研发",
+   "FPGA开发",
+   "双休",
+   "活动多多",
+   "活跃的氛围"
+  ],
+  "deadline": "",
+  "keyword": "机械臂",
+  "search_city": "深圳",
+  "keywords": [
+   "机械臂",
+   "无人机"
+  ]
+ },
+ {
+  "uuid": "inn_30zzaanblyzk",
+  "cname": "星成长教育",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 80,
+  "maxsalary": 150,
+  "days_per_week": "&#xeced",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "房补餐补  ",
+   " 转正机会"
+  ],
+  "c_tags": [
+   "公平公正公开晋升制度",
+   "强力的培训体系"
+  ],
+  "deadline": "",
+  "keyword": "Syrius炬星",
+  "search_city": "深圳",
+  "keywords": [
+   "Syrius炬星"
+  ]
+ },
+ {
+  "uuid": "inn_rg32iizmgtli",
+  "cname": "红海星贸",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "接受大一大二",
+   "远程实习",
+   "零基础实习",
+   "不打卡",
+   "一对一导师"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "Syrius炬星",
+  "search_city": "深圳",
+  "keywords": [
+   "Syrius炬星"
+  ]
+ },
+ {
+  "uuid": "inn_wzxd1x4d9iyc",
+  "cname": "MKS",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "实习津贴",
+   "地铁周边",
+   "餐补",
+   "一对一导师",
+   "外企氛围"
+  ],
+  "c_tags": [
+   "美资外企",
+   "半导体行业",
+   "不定期团建",
+   "体检",
+   "六险一金",
+   "免费宿舍"
+  ],
+  "deadline": "",
+  "keyword": "AIRS 机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "AIRS 机器人"
+  ]
+ },
+ {
+  "uuid": "inn_c0ryx8jcpj0e",
+  "cname": "芳桦咨询",
+  "city": "全国",
+  "degree": "本科",
+  "minsalary": 180,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "企业服务/咨询",
+  "i_tags": [
+   "远程实习",
+   "可转正实习",
+   "暑期实习",
+   "寒假实习",
+   "接受大一大二",
+   "零基础实习",
+   "留学生实习",
+   "周末双休",
+   "可转正",
+   "核心上市项目"
+  ],
+  "c_tags": [
+   "战略咨询",
+   "企业咨询"
+  ],
+  "deadline": "",
+  "keyword": "AIRS 机器人",
+  "search_city": "深圳",
+  "keywords": [
+   "AIRS 机器人"
+  ]
+ },
+ {
+  "uuid": "inn_xenofwfcoflm",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "具身智能",
+   "算法"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_suwi5lbfpthv",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "双休"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_pjmvfukdpvsc",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 250,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "市场",
+   "运营"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_xnkp8dnnevv7",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "项目"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_ns5f38vkrz5p",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "双休"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ },
+ {
+  "uuid": "inn_hbl4bsy5reyw",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "结构测试"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "BrainCo",
+  "search_city": "深圳",
+  "keywords": [
+   "BrainCo"
+  ]
+ }
+]
