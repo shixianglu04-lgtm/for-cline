@@ -1,0 +1,534 @@
+[
+ {
+  "uuid": "inn_5dleevhlxjxh",
+  "cname": "未来机器人",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 100,
+  "maxsalary": 150,
+  "days_per_week": "&#xeb2b",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "留学生实习",
+   "周末双休",
+   "节日福利"
+  ],
+  "c_tags": [
+   "企业文化好",
+   "高福利",
+   "有吃喝有梦想",
+   "同事关系好",
+   "无人驾驶",
+   "工业机器人"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_pfvoudr6u1xn",
+  "cname": "YUHESEN",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 200,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习",
+   "地铁周边",
+   "一对一导师",
+   "实习津贴",
+   "节日福利",
+   "暑期实习"
+  ],
+  "c_tags": [
+   "五险&氛围",
+   "靠谱创业团队",
+   "系统培训",
+   "创新产品",
+   "补充住房津贴",
+   "导师培养"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_0xyh05aidx3t",
+  "cname": "造梦科技",
+  "city": "深圳",
+  "degree": "大专",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "地铁周边",
+   "新兴岗位",
+   "晋升快"
+  ],
+  "c_tags": [
+   "高压高成长",
+   "能力定薪",
+   "公司已盈利",
+   "加入就是朋友"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_hszxpawzyero",
+  "cname": "法雷奥",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "汽车/机械/制造",
+  "i_tags": [
+   "周末双休",
+   "一对一导师",
+   "免费班车",
+   "地铁周边",
+   "不加班"
+  ],
+  "c_tags": [
+   "成长学习",
+   "双休年假",
+   "有食堂",
+   "汽车行业",
+   "辅助驾驶",
+   "新能源汽车"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_dus7eglngvry",
+  "cname": "云迹科技",
+  "city": "全国",
+  "degree": "大专",
+  "minsalary": 150,
+  "maxsalary": 200,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "远程实习",
+   "人工智能",
+   "午餐",
+   "机器人",
+   "实习培训",
+   "实习证明",
+   "实习工资"
+  ],
+  "c_tags": [
+   "时间灵活自由",
+   "敢创新",
+   "脚踏实地",
+   "蓝海行业",
+   "机器人",
+   "人工智能",
+   "锻炼自我",
+   "弹性",
+   "精英团队",
+   "学习成长快"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_qwp4k76mlrim",
+  "cname": "BrainCo",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "双休"
+  ],
+  "c_tags": [
+   "企业背景好",
+   "实习证明",
+   "扁平化组织",
+   "快速成长空间",
+   "活力;创新",
+   "生日节日福利"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_k1pckmm0yjrh",
+  "cname": "深圳科创学院",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "公共事业/NGO/政府",
+  "i_tags": [
+   "地铁周边",
+   "实习津贴",
+   "周末双休"
+  ],
+  "c_tags": [
+   "优秀实习环境",
+   "满满实习干货",
+   "汇聚行业人才",
+   "科技创新理念"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_mywamcxup67j",
+  "cname": "深圳科创学院",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 300,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "公共事业/NGO/政府",
+  "i_tags": [
+   "周末双休",
+   "地铁周边",
+   "实习津贴"
+  ],
+  "c_tags": [
+   "优秀实习环境",
+   "满满实习干货",
+   "汇聚行业人才",
+   "科技创新理念"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_n12teze3cem6",
+  "cname": "SYNAPUFF",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "不限",
+  "i_tags": [
+   "可转正实习",
+   "暑期实习",
+   "日常实习",
+   "转正机会"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_lebmmck8i9da",
+  "cname": "Xeno Dynamics",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 100,
+  "maxsalary": 180,
+  "days_per_week": "&#xe1ea&#xeced",
+  "fte_type": "1",
+  "industry": "汽车/机械/制造",
+  "i_tags": [
+   "大牛指导",
+   "出国机会",
+   "留学奖学金",
+   "可转正实习",
+   "暑期实习",
+   "寒假实习",
+   "留学生实习",
+   "绩效奖金",
+   "定期团建",
+   "项目奖金"
+  ],
+  "c_tags": [
+   "广阔发展平台",
+   "办公氛围好",
+   "专业强",
+   "员工年度旅游",
+   "年轻团队",
+   "股票期权",
+   "实习留任",
+   "办公环境舒适",
+   "名校奖学金计划",
+   "零食"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_7wh7dy8w07ap",
+  "cname": "YUHESEN",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xf3f8",
+  "fte_type": "1",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "可转正实习",
+   "一对一导师",
+   "餐补",
+   "周末双休"
+  ],
+  "c_tags": [
+   "五险&氛围",
+   "靠谱创业团队",
+   "系统培训",
+   "创新产品",
+   "补充住房津贴",
+   "导师培养"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_r4q4ekteb8ic",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 200,
+  "maxsalary": 250,
+  "days_per_week": "&#xe0a0",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "餐补",
+   "前沿技术趋势",
+   "导师亲带"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_kknuovfiq8gn",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 300,
+  "maxsalary": 300,
+  "days_per_week": "&#xe051",
+  "fte_type": "0",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "实习津贴"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_lzkjhnslo55u",
+  "cname": "美团",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 0,
+  "maxsalary": 0,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "互联网/游戏/软件",
+  "i_tags": [
+   "具身智能",
+   "前沿赛道"
+  ],
+  "c_tags": [],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_ywsmwpxyulik",
+  "cname": "灵动星核",
+  "city": "深圳",
+  "degree": "本科",
+  "minsalary": 300,
+  "maxsalary": 500,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "不限",
+  "i_tags": [
+   "节日福利",
+   "不加班",
+   "不打卡"
+  ],
+  "c_tags": [
+   "具身智能",
+   "大模型",
+   "应用落地",
+   "机器人",
+   "航天",
+   "灵巧手"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_pntfpalyppel",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_swb6ak1r3bqi",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_svgvi2iv9oy7",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_uvh2m2aitz5l",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_6jo0nqorm1j0",
+  "cname": "AIRS",
+  "city": "深圳",
+  "degree": "不限",
+  "minsalary": 120,
+  "maxsalary": 150,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "1",
+  "industry": "教育/培训",
+  "i_tags": [
+   "国际化管理"
+  ],
+  "c_tags": [
+   "发展空间大",
+   "国际化管理",
+   "大牛带队",
+   "工作氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ },
+ {
+  "uuid": "inn_2eea8t1kfdbw",
+  "cname": "易桉智能",
+  "city": "深圳",
+  "degree": "硕士",
+  "minsalary": 100,
+  "maxsalary": 180,
+  "days_per_week": "&#xe9cc",
+  "fte_type": "0",
+  "industry": "电子/通信/硬件",
+  "i_tags": [
+   "一对一导师"
+  ],
+  "c_tags": [
+   "人工智能",
+   "芯片研发",
+   "FPGA开发",
+   "双休",
+   "活动多多",
+   "活跃的氛围"
+  ],
+  "deadline": "",
+  "keyword": "机器人",
+  "search_city": "深圳"
+ }
+]
