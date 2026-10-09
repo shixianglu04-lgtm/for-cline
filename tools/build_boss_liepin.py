@@ -47,6 +47,7 @@ def liepin_candidates():
     files = (glob.glob(f"{ROOT}/data/liepin/*.json")
              + glob.glob(f"{ROOT}/data/liepin2/*.json")
              + glob.glob(f"{ROOT}/data/liepin_supp/*.json")
+             + glob.glob(f"{ROOT}/data/liepin_supp2/*.json")
              + glob.glob(f"{ROOT}/data/liepin_scan/*.json"))
     recs = {}
     for f in files:
