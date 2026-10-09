@@ -1,0 +1,41 @@
+########## BOSS直聘 直连探测 2026-10-09T08:47:54Z ##########
+----- step: 首页取 cookie -----
+HTTP=200
+home size=538024
+cookies:
+
+www.zhipin.com	FALSE	/	FALSE	0	SERVERID	606144fb348bc19e48aededaa626f54e|1791535674|1791535674
+
+===== [pc_search] HTTP=200 size=9204
+URL: https://www.zhipin.com/web/geek/job?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600
+BODY(first 400): <!doctype html><!--[if lt IE 7]><html class="ie ie6"><![endif]--><!--[if IE 7]><html class="ie ie7"><![endif]--><!--[if IE 8]><html class="ie ie8"><![endif]--><!--[if IE 9]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="standard"><!--<![endif]-->  <head>    <meta charset="utf-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">        <meta http
+
+===== [wapi_search] HTTP=200 size=151
+URL: https://www.zhipin.com/wapi/zpgeek/search/joblist.json?scene=1&query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600&page=1&pageSize=30
+BODY(first 400): {"code":37,"message":"您的环境存在异常.","zpData":{"seed":"rAFGhc3JmqAz/MASG7CwToG5GlkSwT7Y9lqH7nFXjl8=","ts":1791535675962,"name":"f86c365d"}}
+
+===== [mobile_search] HTTP=200 size=151
+URL: https://www.zhipin.com/wapi/zpgeek/mobile/search/joblist.json?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600&page=1
+BODY(first 400): {"code":37,"message":"您的环境存在异常.","zpData":{"ts":1791535676310,"name":"f86c365d","seed":"rAFGhc3JmqAz/MASG7CwTqbYd6HPSHwNQLigoFPDcyI="}}
+
+===== [m_home] HTTP=200 size=27798
+URL: https://m.zhipin.com/
+BODY(first 400): <!DOCTYPE html><html class="grayBody"><head>    <meta charset="utf-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />    <title>BOSS直聘-找工作BOSS直聘直接谈！招聘求职找工作！</title><script src="https://static.zhipin.com/assets/sdk/apm/patas.2.3.0.min.js" crossorigin="anonymous"></script>
+
+===== [job_detail] HTTP=302 size=0
+URL: https://www.zhipin.com/job_detail/
+BODY(first 400): 
+
+===== [gongsi] HTTP=302 size=0
+URL: https://www.zhipin.com/gongsi/
+BODY(first 400): 
+
+===== [api_domain] HTTP=200 size=54
+URL: https://api.zhipin.com/
+BODY(first 400): {"code":6,"message":"请求不合法(6).","zpData":{}}
+
+===== [wx_mini] HTTP=404 size=11614
+URL: https://www.zhipin.com/wapi/zpgeek/miniprogram/search/joblist.json?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600
+BODY(first 400): <!DOCTYPE html><html><head>    <meta charset="utf-8">    <title>您访问的页面不存在-BOSS直聘</title>    <script src="https://static.zhipin.com/assets/sdk/apm/patas.2.3.0.min.js" crossorigin="anonymous"></script><script>    try {        function getCookieValue(name) {            var match = document.cookie.match(new RegExp('(?:^|;\\s*)' + name + '=([^;]*)'));            return m
+
+########## done ##########

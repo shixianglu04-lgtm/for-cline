@@ -94,7 +94,7 @@ async function main() {
   let pageNo = 1;
   for (;;) {
     const r = await httpPost(apiBase + '/api/outer/ats-apply/website/jobs/v2',
-      { orgId: orgId, siteId: siteId, page: pageNo, size: size, needStat: true, locale: 'zh-CN' }, siteUrl);
+      { orgId: orgId, siteId: siteId, limit: size, offset: (pageNo - 1) * size, needStat: true, locale: 'zh-CN' }, siteUrl);
     const j = parseResp(r.body);
     if (!j || !j.data || !j.data.jobs) { console.error('[moka] page ' + pageNo + ' no jobs http=' + r.status + ' ' + String(r.body).slice(0, 160)); break; }
     const jobs = j.data.jobs;

@@ -108,14 +108,14 @@ def get_requirements(body):
 
 
 GRAD_PATTERNS = [
-             "GRAD_PATTERNS = [
     r"\d{2}\s*届", r"20\d{2}\s*届", r"应届",
     r"在校生", r"在读", r"在校",
-    r"毕业(时间|年份|不限)", r"毕设",
+    r"毕业(时间|年份|不限)", r"毕设(方向|课题)",
     r"(实习期|实习周期|实习时间|连续实习|至少实习|实习至少)[^。；;]{0,12}?\d+\s*(个月|月|天)",
     r"实习[^。；;]{0,10}?(不少于|至少|≥|不低于)\s*\d+\s*(个月|月)",
     r"每周[^。；;]{0,10}?(不少于|至少|≥|不低于|出勤)\s*\d+\s*天",
     r"每周到岗\s*\d+\s*天",
+    r"稳定实习", r"长期稳定实习",
 ]
 
 
@@ -138,40 +138,24 @@ def get_graduation_limit(body):
             hits.append(s)
     hits = list(dict.fromkeys(hits))
     return "；".join(hits)[:400] if hits else None
- "每周", "每月", "到岗", "长期稳定实习", "稳定实习"]
-
-
-def get_graduation_limit(body):
-    text = re.sub(r"\x01", " ", (body or ""))
-    i = text.find("投递要求")
-    if i > 0:
-        text = text[:i]
-    text = re.sub(r"\s+", " ", text)
-    hits = []
-    for s in re.split(r"[。；;\n]", text):
-        s = s.strip()
-        if len(s) >= 4 and any(k in s for k in GRAD_KEYS):
-            hits.append(s)
-    hits = list(dict.fromkeys(hits))
-    return "；".join(hits)[:400] if hits else None
-
-
-EXP_KEYS = ["经验要求", "工作年限", "年及以上相关工作经验", "年及以上工作经验",
-            "年以上工作经验", "经验不限", "经验者优先", "有经验"]
+EXP_PATTERNS = [
+    r"经验要求[：:]\s*[^。；;]{0,20}",
+    r"工作年限[：:]\s*[^。；;]{0,20}",
+    r"\d+\s*年(及以上|以上|以上相关|及以上相关)?\s*(相关)?工作经验",
+    r"\d+\s*年以上(工作)?经验",
+    r"经验不限", r"不限经验",
+]
 
 
 def get_experience(body):
-    text = re.sub(r"\x01", " ", (body or ""))
-    i = text.find("投递要求")
-    if i > 0:
-        text = text[:i]
-    text = re.sub(r"\s+", " ", text)
     hits = []
-    for s in re.split(r"[。；;\n]", text):
-        s = s.strip()
-        if len(s) >= 4 and any(k in s for k in EXP_KEYS):
+    for s in _clauses(body):
+        if not (4 <= len(s) <= 160):
+            continue
+        if any(re.search(p, s) for p in EXP_PATTERNS):
             hits.append(s)
-    return "；".join(dict.fromkeys(hits))[:250] if hits else None
+    hits = list(dict.fromkeys(hits))
+    return "；".join(hits)[:250] if hits else None
 
 
 NOTES = {
@@ -195,7 +179,7 @@ def build():
             return
         l = lists.get(uuid, {})
         head = parse_head(d.get("head"))
-        title = (d.get("page_title") or "").split("实习招聘-")[0]
+        title = (d.get("page_title") or "").split("实习招聘-")[0].strip().rstrip("-").strip()
         body = d.get("body") or ""
         reqs = get_requirements(body)
         salary = head["salary"]
@@ -206,9 +190,15 @@ def build():
             terms.append(head["days_per_week"])
         if head["months"]:
             terms.append("实习%d个月" % head["months"])
+        grad = get_graduation_limit(body)
         notes = NOTES.get(uuid)
-        if family == "其他" and not notes:
-            notes = "机器人行业其他实习岗位（对照用）"
+        extra = []
+        if family == "其他":
+            extra.append("机器人行业其他实习岗位（对照用）")
+        if not grad:
+            extra.append("页面未标注毕业时间/在校身份限制")
+        if extra:
+            notes = "；".join(([notes] if notes else []) + extra)
 
         rec = {
             "source": "实习僧(shixiseng.com)",
@@ -219,7 +209,7 @@ def build():
             "job_family": family,
             "requirements": reqs,
             "experience_threshold": get_experience(body),
-            "graduation_limit": get_graduation_limit(body),
+            "graduation_limit": grad,
             "education": head["degree"] or l.get("degree"),
             "internship_terms": ",".join(terms) if terms else None,
             "salary": salary,

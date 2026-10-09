@@ -13,25 +13,31 @@
 """
 import re, sys, json, html, os, time, argparse, subprocess, urllib.parse, hashlib
 
-UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+# 注: 实测发现完整 Chrome UA 会被猎聘 safe.liepin.com 拦截(302->captcha), 简短 UA 可正常返回
+UA = "Mozilla/5.0"
 CACHE = os.environ.get("LIEPIN_CACHE", "/tmp/liepin_cache")
 os.makedirs(CACHE, exist_ok=True)
 
 
-def fetch(url, tag):
+ERR_MARK = "我们找遍了所有地方"  # 猎聘错误页特征
+
+
+def fetch(url, tag, min_size=8000, retries=4):
     key = hashlib.md5(url.encode()).hexdigest()[:12]
     path = os.path.join(CACHE, re.sub(r"[^0-9A-Za-z_.-]", "_", tag)[:80] + "_" + key + ".html")
-    if os.path.exists(path) and os.path.getsize(path) > 3000:
-        return open(path, encoding="utf-8", errors="ignore").read()
-    for _ in range(3):
+    if os.path.exists(path) and os.path.getsize(path) > min_size:
+        cached = open(path, encoding="utf-8", errors="ignore").read()
+        if ERR_MARK not in cached:
+            return cached
+    for i in range(retries):
         p = subprocess.run(["curl", "-s", "--max-time", "30", "-A", UA, url],
                            capture_output=True, text=True)
-        if len(p.stdout) > 3000:
-            open(path, "w", encoding="utf-8").write(p.stdout)
-            return p.stdout
-        time.sleep(2)
-    return ""
+        out = p.stdout
+        if len(out) > min_size and ERR_MARK not in out:
+            open(path, "w", encoding="utf-8").write(out)
+            return out
+        time.sleep(3 + 4 * i)  # 被限流时退避重试
+    return out if len(p.stdout) > 0 else ""
 
 
 def seg(h):

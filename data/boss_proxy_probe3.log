@@ -1,0 +1,26 @@
+########## BOSS 代理第三批 2026-10-09T08:53:52Z ##########
+===== [allorigins_get] HTTP=522 size=7255
+URL: https://api.allorigins.win/get?url=https%3A%2F%2Fwww.zhipin.com%2Fweb%2Fgeek%2Fjob%3Fquery%3D%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26city%3D101280600
+BODY(first 300): <!DOCTYPE html><!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--><!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]--><!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]--><!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
+
+===== [cors_lol] HTTP=429 size=20
+URL: https://api.cors.lol/?url=https%3A%2F%2Fwww.zhipin.com%2Fweb%2Fgeek%2Fjob%3Fquery%3D%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26city%3D101280600
+BODY(first 300): Rate limit exceeded
+
+===== [cors_workers] HTTP=429 size=5553
+URL: https://test.cors.workers.dev/?https://www.zhipin.com/web/geek/job?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600
+BODY(first 300): <!DOCTYPE html><!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--><!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]--><!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en-US">  
+
+===== [microlink] HTTP=200 size=923
+URL: https://api.microlink.io/?url=https%3A%2F%2Fwww.zhipin.com%2Fweb%2Fgeek%2Fjob%3Fquery%3D%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26city%3D101280600
+BODY(first 300): {"status":"success","data":{"publisher":"zhipin.com","title":"BOSS直聘","url":"https://www.zhipin.com/web/geek/job?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600","image":null,"date":null,"author":null,"lang":null,"description":"加载中，请稍候","logo":{"url":"https://static.zhipin.com/fav
+
+===== [corsfix] HTTP=400 size=291
+URL: https://proxy.corsfix.com/?https://www.zhipin.com/web/geek/job?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600
+BODY(first 300): {  "corsfix_error": "invalid_origin",  "message": "Request is missing a valid Origin header",  "if_you_are_admin": "Ensure requests are made from browser JavaScript (fetch/AJAX), not server-side or direct access",  "if_you_are_user": "Please contact the website owner about this issue"}
+
+===== [jina_retry] HTTP=403 size=5981
+URL: https://r.jina.ai/https://www.zhipin.com/web/geek/job?query=%E6%9C%BA%E5%99%A8%E4%BA%BA&city=101280600
+BODY(first 300): <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scal
+
+########## done ##########
